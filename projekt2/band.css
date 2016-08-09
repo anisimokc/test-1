@@ -9,6 +9,10 @@
   color: #818a91;
 }
 
+.navbar-toggler {
+    color: #fff;
+}
+
 .navbar-collapse .text-muted {
   color: #818a91;
 }
